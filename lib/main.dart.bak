@@ -1,5 +1,3 @@
-// Developed by Komeil Osali - https://github.com/komeilosali
-
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:page_transition/page_transition.dart';
 import 'package:chatgpt/MainScreen.dart';
