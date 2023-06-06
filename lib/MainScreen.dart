@@ -64,13 +64,13 @@ class _ChatScreenState extends State<Main_Screen> {
           icon: const Icon(Icons.delete_outline_outlined),
           color: Colors.indigo,
         ),
-        actions: [
+        /*actions: [
           IconButton(
             onPressed: () {},
             icon: const Icon(Icons.view_sidebar_rounded),
             color: Colors.indigo,
           ),
-        ],
+        ],*/
       ),
       body: SafeArea(
         child: Column(
