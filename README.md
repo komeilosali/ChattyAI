@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Describe your project
+ChattyAI is a chat application for you to communicate with ChatGPT AI. Just don't forget to change the "Your API key" in MainScreen.dart to your own API key from OpenAI.
 
 ## :sparkles: Features ##
 
@@ -58,15 +58,15 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [Android Studio](https://developer.android.com/studio)
+- [Genymotion](https://www.genymotion.com/)
+- [Visual Studio](https://visualstudio.microsoft.com/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com).
 
 ## :checkered_flag: Starting ##
 
@@ -77,13 +77,14 @@ $ git clone https://github.com/{{komeilosali}}/chattyai
 # Access
 $ cd chattyai
 
-# Install dependencies
-$ yarn
+# Build android .apk
+$ flutter build apk –split-per-abi
 
-# Run the project
-$ yarn start
+# Build windows .exe
+$ flutter build windows
 
-# The server will initialize in the <http://localhost:3000>
+#you can find the build in the following path 
+$\build\windows\x64\Release\Runner
 ```
 
 ## :memo: License ##
@@ -91,7 +92,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{komeilosali}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/{{komeilosali}}" target="_blank">{{Komeil}}</a>
 
 &#xa0;
 
