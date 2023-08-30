@@ -8,8 +8,7 @@
 </div>
 
 <h1 align="center">ChattyAI</h1>
-
-![Splash LoadScreen](https://github.com/komeilosali/ChattyAI/assets/58639066/7df1d40d-86a9-456a-9999-e2f024d2d2fa)
+<img src="https://github.com/komeilosali/ChattyAI/assets/58639066/7df1d40d-86a9-456a-9999-e2f024d2d2fa" alt="Splash LoadScreen" width=50% height=50%>
 ![Main Screen with conv2](https://github.com/komeilosali/ChattyAI/assets/58639066/e9e354c7-03f0-44ab-a06e-500a1edab322)
 ![Main Screen Empty](https://github.com/komeilosali/ChattyAI/assets/58639066/fd5c76f9-1b48-4b85-8795-9f301bd7a045)
 
@@ -67,11 +66,6 @@ $ flutter build windows
 #you can find the build in the following path 
 $\build\windows\x64\Release\Runner
 ```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
 
 Made with :heart: by <a href="https://github.com/{{komeilosali}}" target="_blank">{{Komeil}}</a>
 
