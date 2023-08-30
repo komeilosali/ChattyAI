@@ -72,8 +72,10 @@ $ flutter build windows
 #you can find the build in the following path 
 $\build\windows\x64\Release\Runner
 ```
-
+<p align="center">
 Made with :heart: by <a href="https://github.com/{{komeilosali}}" target="_blank">{{Komeil}}</a>
+</p>
+
 
 &#xa0;
 
