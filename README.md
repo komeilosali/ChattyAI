@@ -24,9 +24,9 @@
 
 ## :iphone: Screenshots ##
 
-<img src="https://github.com/komeilosali/ChattyAI/assets/58639066/7df1d40d-86a9-456a-9999-e2f024d2d2fa" alt="Splash LoadScreen" width=30% height=30%>
-<img src="https://github.com/komeilosali/ChattyAI/assets/58639066/fd5c76f9-1b48-4b85-8795-9f301bd7a045" alt="Main Screen Empty" width=30% height=30%>
-<img src="https://github.com/komeilosali/ChattyAI/assets/58639066/e9e354c7-03f0-44ab-a06e-500a1edab322" alt="Main Screen with conv2" width=30% height=30%>
+<img src="https://github.com/komeilosali/ChattyAI/assets/58639066/08b698c2-a25c-4f3a-9806-1efdbee661d8" alt="Splash LoadScreen" width=30% height=30%>
+<img src="https://github.com/komeilosali/ChattyAI/assets/58639066/4c1bf06d-08e9-46e3-b1a9-a9f0f87173e4" alt="Main Screen Empty" width=30% height=30%>
+<img src="https://github.com/komeilosali/ChattyAI/assets/58639066/65e98394-8817-4fae-b593-21e346b15e3a" alt="Main Screen with conv2" width=30% height=30%>
 
 ## :dart: About ##
 
