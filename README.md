@@ -73,7 +73,7 @@ $ flutter build windows
 $\build\windows\x64\Release\Runner
 ```
 <p align="center">
-Made with :heart: by <a href="https://github.com/{{komeilosali}}" target="_blank">{{Komeil}}</a>
+Made with :heart: by <a href="https://github.com/{{komeilosali}}" target="_blank">Komeil</a>
 </p>
 
 
