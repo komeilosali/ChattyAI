@@ -8,9 +8,11 @@
 </div>
 
 <h1 align="center">ChattyAI</h1>
+
 <img src="https://github.com/komeilosali/ChattyAI/assets/58639066/7df1d40d-86a9-456a-9999-e2f024d2d2fa" alt="Splash LoadScreen" width=50% height=50%>
-![Main Screen with conv2](https://github.com/komeilosali/ChattyAI/assets/58639066/e9e354c7-03f0-44ab-a06e-500a1edab322)
-![Main Screen Empty](https://github.com/komeilosali/ChattyAI/assets/58639066/fd5c76f9-1b48-4b85-8795-9f301bd7a045)
+<img src="https://github.com/komeilosali/ChattyAI/assets/58639066/fd5c76f9-1b48-4b85-8795-9f301bd7a045" alt="Main Screen Empty" width=50% height=50%>
+<img src="https://github.com/komeilosali/ChattyAI/assets/58639066/e9e354c7-03f0-44ab-a06e-500a1edab322" alt="Main Screen with conv2" width=50% height=50%>
+
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
