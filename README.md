@@ -22,7 +22,7 @@
 
 <br>
 
-## :img: Screenshots ##
+## :iphone: Screenshots ##
 
 <img src="https://github.com/komeilosali/ChattyAI/assets/58639066/7df1d40d-86a9-456a-9999-e2f024d2d2fa" alt="Splash LoadScreen" width=30% height=30%>
 <img src="https://github.com/komeilosali/ChattyAI/assets/58639066/fd5c76f9-1b48-4b85-8795-9f301bd7a045" alt="Main Screen Empty" width=30% height=30%>
