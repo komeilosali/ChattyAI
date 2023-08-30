@@ -51,7 +51,8 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com).
+Before starting :checkered_flag:, first you need to have [Git](https://git-scm.com).
+then you need to install Dart, Flutter, Android Studio, Genymotion, Visual Studio.
 
 ## :checkered_flag: Starting ##
 
