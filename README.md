@@ -3,10 +3,15 @@
 
   &#xa0;
 
+
   <!-- <a href="https://chattyai.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">ChattyAI</h1>
+
+![Main Screen Empty](https://github.com/komeilosali/ChattyAI/assets/58639066/8dd00ac9-97fa-41ef-bf4c-3d65425d57bb)
+![Splash LoadScreen](https://github.com/komeilosali/ChattyAI/assets/58639066/4b688ba4-d62f-4cc9-8675-1b2ea8f8cd3b)
+![Main Screen with conv2](https://github.com/komeilosali/ChattyAI/assets/58639066/9eeb8c6b-b979-477e-b1f1-900bd68c5f14)
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
